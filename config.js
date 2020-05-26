@@ -4,9 +4,6 @@ module.exports = {
   description: "The status page for Timecop",
   serviceWorker: false,
   manifest: false,
-  analytics: {
-    ga: 'UA-54003772-13',
-  },
   defaultLocale: "en",
   locales: [
     {
